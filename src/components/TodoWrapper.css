@@ -1,0 +1,14 @@
+.todo-wrapper {
+    background: #1A1A40;
+  margin-top: 5rem;
+  padding: 2rem;
+  border-radius: 5px;
+  }
+  .todo-btn {
+    background: #8758ff;
+    color: #fff;
+    border: none;
+    padding: 0.55rem;
+    cursor: pointer;
+    
+  }
